@@ -1,1 +1,1 @@
-# quiz-application quiz service API
+# quiz-application using quiz service rest API
